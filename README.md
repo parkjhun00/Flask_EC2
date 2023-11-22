@@ -1,7 +1,7 @@
 # Flask_EC2
 Flask を利用した、AWS EC2上のウェブアプリケーション構築
 
-MariaDB+EC2+Nginx の環境で策動
+MariaDB+EC2+Nginx の環境で起動
 
 実現機能
 1. Indexページの表示
